@@ -109,6 +109,7 @@ ecommerce_analytics
 
 Data transformation steps included:
 **Medallion Architecture Layers**
+
 **- 🥉 Bronze Layer**
 **Raw ingestion layer**
   - Data loaded directly from CSV files
